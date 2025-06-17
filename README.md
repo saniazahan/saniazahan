@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **vision projects for healthcare**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saniazahan&theme=onedark&title=Experience,Issues,Commits,Stars,Followers,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saniazahan&theme=onedark&title=Experience,Issues,Commits,Stars,Followers,PullRequest)](https://saniazahan.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
